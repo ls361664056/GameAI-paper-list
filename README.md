@@ -1,3 +1,3 @@
 # GAIblog, update constantly :)
-中文版，GAMEAI学习paper清单推荐和记录,不断更新，欢迎交流  请查看wiki页面~
+中文版，GAMEAI学习paper清单推荐和记录,不断更新，欢迎交流,请查看wiki页面~  
 Some Recommanded and Marked paper for GAMEAI learning, The details are listed in wiki page
