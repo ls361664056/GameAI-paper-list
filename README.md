@@ -52,7 +52,7 @@ AI作为时下计算机算法的超级巨星，在例如CV、NLP、语音、机�
 <br/><br/>  
 
 <p align="center">
-  <img src="image/4.gif" alt="animated" />
+  <img src="image/4_2.gif" alt="animated" />
 </p> 
 <center><i>A*</i></center>  
 <br/><br/>  
