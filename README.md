@@ -22,7 +22,7 @@ AI作为时下计算机算法的超级巨星，在例如CV、NLP、语音、机�
 <p align="center">
   <img src="image/1.gif" alt="animated" />
 </p> 
-<center><i>动作识别</i></center>  
+<i align="center">动作识别</i>  
 <br/><br/>  
 
 <p align="center">
