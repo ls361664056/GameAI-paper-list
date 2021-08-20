@@ -6,9 +6,8 @@ Some Recommanded and Marked paper for GAMEAI learning, The details are listed in
 :point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down:
 <h1><a href="https://github.com/ls361664056/GameAI-paper-list/wiki">请诸位老爷移步Wiki 页面(Wiki Page) 欢迎补充</a></h1>  
 :point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2:  
-
-目前国内对于游戏AI的态度可以说是十分不友好了，学术界将游戏视为洪水猛兽，工业界也重点放在深度强化学习上，但游戏领域的AI应用实则十分广阔。  
-因为国内并没有发现公众号或是学校专门讲这一块，笔者结合了自己的爱好建立了这个repo  
+ 
+因为国内并没有发现公众号或是学校专门讲通用游戏算法这一块，笔者结合了自己的爱好建立了这个repo  
 
 # 游戏领域的AI应用  
 AI作为时下计算机算法的超级巨星，在例如CV、NLP、语音、机器人等诸多领域都有广泛的应用。 而在游戏领域，AI的应用往往被认为是类人玩家型AI，算法的第一印象也通常是强化学习。但实际当中，AI在游戏中的应用缺不止于此。本文就来介绍一下游戏领域的AI应用与算法。  
