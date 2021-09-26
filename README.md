@@ -1,3 +1,4 @@
+# 游戏AI论文总结在[维基页面(连载中)](https://github.com/ls361664056/GameAI-paper-list/wiki)
 # Game AI review  
 > 本文大致分析AI方法在游戏领域的应用。  
 ## 利用AI玩游戏（agent/bot）  
@@ -78,4 +79,3 @@
   > + 聚类  
   > + 频繁模式挖掘  
   
-# 游戏AI论文总结在[维基页面(连载中)](https://github.com/ls361664056/GameAI-paper-list/wiki)
