@@ -1,5 +1,5 @@
 # Game AI review  
-> 本文大致分析AI方法在游戏领域的应用。
+> 本文大致分析AI方法在游戏领域的应用。  
 ## 利用AI玩游戏（agent/bot）  
 > 在游戏中建立bot。
 ### 应用为导向  
@@ -77,3 +77,5 @@
 + 无监督学习 
   > + 聚类  
   > + 频繁模式挖掘  
+  
+# 游戏AI论文总结在[维基页面(连载中)](https://github.com/ls361664056/GameAI-paper-list/wiki)
