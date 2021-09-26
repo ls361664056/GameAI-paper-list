@@ -1,3 +1,5 @@
+# Introduction  
+> 该repo的目标是建立起游戏AI论文的中文总结参考清单以及简略的游戏AI学习应用路径，详情见下文
 # 游戏AI论文总结在[维基页面(连载中)](https://github.com/ls361664056/GameAI-paper-list/wiki)
 # Game AI review  
 > 本文大致分析AI方法在游戏领域的应用。  
