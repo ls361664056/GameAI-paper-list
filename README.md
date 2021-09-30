@@ -1,5 +1,8 @@
 # Introduction  
-> 该repo聚焦于收集游戏领域的AI方法论文，分类归纳与总结。**详情请查看[维基页面](https://github.com/ls361664056/GameAI-paper-list/wiki)**
+> 该repo聚焦于收集游戏领域的AI方法论文，分类归纳与总结。
+# **详情请查看[维基页面](https://github.com/ls361664056/GameAI-paper-list/wiki)**
+---  
+
 # Game AI review  
 > 本文参考Yannakakis, Georgios N., and Julian Togelius. 的《Artificial Intelligence and Games.》,对游戏领域的AI方法应用做个汇总
 ## 利用AI玩游戏（agent/bot）  
