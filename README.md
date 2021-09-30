@@ -3,7 +3,7 @@
   
 :point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down:
 # **详情请查看[维基页面](https://github.com/ls361664056/GameAI-paper-list/wiki)**   
-:point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2:
+:point_up::point_up::point_up::point_up::point_up::point_up::point_up::point_up::point_up::point_up::point_up::point_up::point_up::point_up:
 ---  
 
 # Game AI review  
